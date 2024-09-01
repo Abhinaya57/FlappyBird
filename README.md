@@ -1,2 +1,2 @@
 # FlappyBird
-My first 2D Game
+My first 2D Game - Flappy Bird.
